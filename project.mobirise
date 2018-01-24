@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lean In at Columbia",
-    "currentPage": "circles.html",
+    "currentPage": "events.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 83,
     "versionPublish": "4.1.7",
@@ -2322,7 +2322,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Lean In at Columbia University invites Barnumbia women of all identities, disciplines, and ages interested in learning great professional tips, developing an amazing support system, and blazing through personal and professional goals!! Join us 1/25 to learn about this year's program and circles, mingle with other members and our moderators, and have a great time.</b></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Lean In at Columbia University invites Barnumbia women of all identities, disciplines, and ages interested in learning great professional tips, developing an amazing support system, and blazing through personal and professional goals!! Join us 1/28 to learn about this year's program and circles, mingle with other members and our moderators, and have a great time.</b></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qAG6qjl0NT",
           "_anchor": "content1-26",
           "_protectedParams": [],
