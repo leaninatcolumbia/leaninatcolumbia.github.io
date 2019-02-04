@@ -1760,47 +1760,14 @@ pre {
 .cid-qsYvkj0eu6 H1 {
   color: #232323;
 }
-.cid-qsYySK1kA9 {
+.cid-rh9rzDF6OI {
   padding-top: 60px;
-  padding-bottom: 30px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-qsYySK1kA9 .counter-container {
+.cid-rh9rzDF6OI .mbr-text,
+.cid-rh9rzDF6OI blockquote {
   color: #767676;
-}
-.cid-qsYySK1kA9 .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-qsYySK1kA9 .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-qsYySK1kA9 .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-qsYySK1kA9 .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #ef0000;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
-.cid-qsYySK1kA9 .mbr-text B {
-  color: #232323;
-}
-.cid-qsYySK1kA9 .mbr-text LI {
-  color: #232323;
 }
 .cid-qsYFbUmDdU {
   padding-top: 15px;
@@ -3080,6 +3047,19 @@ pre {
 }
 .cid-qsY4SnRS0R I {
   color: #ffffff;
+}
+.cid-rh9sePvYOP {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rh9sePvYOP .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rh9sdbV2O6 {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
 .cid-qtxJJKb8GW {
   padding-top: 45px;
